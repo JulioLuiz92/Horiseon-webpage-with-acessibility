@@ -7,3 +7,9 @@ elements follow a logical structure independent of styling and positioning;
 find accessible alt attributes for icons and images;
 heading attributes fall in sequential order;
 existing title element with descriptive title.
+
+
+https://julioluiz92.github.io/Horiseon-webpage-with-acessibility/
+https://github.com/JulioLuiz92/Horiseon-webpage-with-acessibility
+
+

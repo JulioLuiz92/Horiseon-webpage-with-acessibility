@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* The tag <nav> is semantic, different than tag <div> */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/* These classes have the same attributes and values, so they have been put in place together */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
